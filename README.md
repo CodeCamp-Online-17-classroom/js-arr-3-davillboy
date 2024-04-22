@@ -17,3 +17,5 @@ console.log(summary)
 //   {netPrice: 100}
 // ];
 ```
+
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
